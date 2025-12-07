@@ -2,8 +2,13 @@
 
 **Professional ComfyUI workflow leveraging z-Image's Vision-LLM architecture for automated style variations**
 
-Developed by [Jozef Kubica](https://jozefkubica.com) | December 2025
+Developed by cre.ai.tiv.company | December 2025
+---
+## 🚀 Quick Start
 
+**New to this workflow?** → See [INSTALLATION.md](INSTALLATION.md) for detailed setup guide
+
+**Ready to batch process?** → See scripts in `scripts/` folder
 ---
 
 ## 🎯 Overview
